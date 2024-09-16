@@ -17,10 +17,7 @@
 
 * **Ход исследования:**
 * данные загружены с sql-сервера. Данные чистые, исправлено только название одной колонки, типы данных соответствуют значениям, выбросов нет, пропуски не имеют значения для исследования. Были добавлены вспомогательные столбцы
-* отчеты по предварительному анализу:
-   * https://drive.google.com/file/d/1whc_EhJGFoiG-7nsylDfqYRWXymt6UE0/view?usp=drive_link
-   * https://drive.google.com/file/d/1LQHRmxYnlBobTADHFHIf-LxhAmzyLWKH/view?usp=drive_link
-   * https://drive.google.com/file/d/1PfNDJw9AB-tRoBjdj49tb6BopdY7aUTv/view?usp=drive_link
+* отчеты по предварительному анализу (их нужно скачать):
 * были проанализированы числовые параметры матчей: assists, deaths, kills, 'denies', 'gold_per_min', 'xp_per_min', 'kills_per_min', 'last_hits_per_min', 'hero_damage_per_min', 'hero_healing_per_min', 'tower_damage_per_min' в размере победителей/проигравших
 * проверена степень корреляции параметров с выигрышем
 * был проведен поиск популярных, топовых предметов, героев
